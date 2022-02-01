@@ -38,7 +38,7 @@
 
 .hero-banner h1 {
   font-size: 60px;
-  color: black;
+  color: white;
   font-style: italic;
   font-weight: 500;
   -webkit-animation: tracking-in-expand 0.7s cubic-bezier(0.215, 0.61, 0.355, 1) both;
@@ -56,16 +56,16 @@
   transition: all 0.3s;
   border: none;
   background-color: transparent;
-  border-bottom: solid 2px black;
+  border-bottom: solid 2px white;
   cursor: pointer;
   padding-bottom: 5px;
   font-size: 17px;
-  color: black;
+  color: white;
 }
 
 .hero-banner .btn-container button a {
   text-decoration: none;
-  color: black;
+  color: white;
 }
 
 .hero-banner .btn-container button i {

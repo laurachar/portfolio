@@ -28,7 +28,7 @@
   background-size: cover;
   h1 {
     font-size: 60px;
-    color: black;
+    color: white;
     font-style: italic;
     font-weight: 500;
     animation: tracking-in-expand 0.7s cubic-bezier(0.215, 0.61, 0.355, 1) both;
@@ -41,14 +41,14 @@
       //   padding: 5px 10px;
       border: none;
       background-color: transparent;
-      border-bottom: solid 2px black;
+      border-bottom: solid 2px white;
       cursor: pointer;
       padding-bottom: 5px;
       font-size: 17px;
-      color: black;
+      color: white;
       a {
         text-decoration: none;
-        color: black;
+        color: white;
       }
       i {
         transition: all 0.3s;
