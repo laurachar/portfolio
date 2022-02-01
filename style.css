@@ -128,7 +128,6 @@
 }
 
 .apropos {
-  background: url("img/bg-dots.png");
   padding: 60px;
 }
 
@@ -285,7 +284,6 @@
 
 .contact {
   padding: 60px;
-  background: url("img/bg-dots.png");
 }
 
 .contact h2 {
